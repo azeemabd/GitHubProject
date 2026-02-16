@@ -1,7 +1,12 @@
 package org.program;
 
 public class Sum {
+
 	int mainValue = 200;
+
+
+	int arun = 100;
+
 	public static void main(String[] args) {
 		
 		int sum = 0;
