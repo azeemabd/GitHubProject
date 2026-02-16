@@ -4,6 +4,7 @@ public class Sum {
 
 	int mainValue = 200;
 
+	int featureValue = 500;
 
 	int arun = 100;
 
